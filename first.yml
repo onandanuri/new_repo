@@ -6,4 +6,16 @@
      apt:
       name: wget
       state: present
-      
+     when: ansible_os_family== "Debian"
+
+    -name: Install webserver on redhat
+     yum:
+       name: httpd
+       state: present
+     when: ansible_os_family== "RedHat"        
+    
+    -name: Start webserver on Redhat
+     service:
+        name: httpd
+        state: started
+      when: ansible_os_family== "Redhat"  
