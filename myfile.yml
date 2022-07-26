@@ -1,0 +1,23 @@
+---
+- hosts: 172.31.0.14
+  become: yes
+  tasks:
+   - name: Execute linux command
+     command: hostname -f 
+     register: myfirsttaskresult
+
+   - name: Display first task result
+     debug:
+       msg: "{{myfirsttaskresult}}"
+   - name: Install git
+     apt:
+       name: git
+       state: present
+     when: myfirsttaskresult.stderr == ""
+
+    - name: Install tree
+      apt:
+       name: tree
+       state: present
+      when: myfirsttaskresult.stderr != ""    
+      
