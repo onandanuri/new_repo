@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1658845454,,"wq"
+|2,0,1659449652,,"wq"
 :q
-|2,0,1658845407,,"q"
+|2,0,1659449150,,"q"
 :se nu
 |2,0,1658845344,,"se nu"
 
@@ -38,34 +38,110 @@
 |3,1,36,0,1,0,1658845446,"4"
 
 # File marks:
-'0  2  22  ~/myfile.yml
-|4,48,2,22,1658845454,"~/myfile.yml"
-'1  22  4  ~/myfile.yml
-|4,49,22,4,1658845407,"~/myfile.yml"
-'2  22  4  ~/myfile.yml
-|4,50,22,4,1658845407,"~/myfile.yml"
-'3  22  4  ~/myfile.yml
-|4,51,22,4,1658845398,"~/myfile.yml"
+'0  6  13  ~/myhosts
+|4,48,6,13,1659449652,"~/myhosts"
+'1  5  57  ~/mytomrole.yml
+|4,49,5,57,1659449150,"~/mytomrole.yml"
+'2  5  57  ~/mytomrole.yml
+|4,50,5,57,1659449091,"~/mytomrole.yml"
+'3  2  22  ~/myfile.yml
+|4,51,2,22,1658845454,"~/myfile.yml"
 '4  22  4  ~/myfile.yml
-|4,52,22,4,1658845398,"~/myfile.yml"
-'5  7  24  ~/myhosts
-|4,53,7,24,1658413734,"~/myhosts"
-'6  1  13  ~/myhosts
-|4,54,1,13,1658413553,"~/myhosts"
-'7  1  13  ~/myhosts
-|4,55,1,13,1658413553,"~/myhosts"
-'8  5  17  ~/myhosts
-|4,56,5,17,1658413511,"~/myhosts"
-'9  4  17  ~/myhosts
-|4,57,4,17,1658413511,"~/myhosts"
+|4,52,22,4,1658845407,"~/myfile.yml"
+'5  22  4  ~/myfile.yml
+|4,53,22,4,1658845407,"~/myfile.yml"
+'6  22  4  ~/myfile.yml
+|4,54,22,4,1658845398,"~/myfile.yml"
+'7  22  4  ~/myfile.yml
+|4,55,22,4,1658845398,"~/myfile.yml"
+'8  10  24  ~/myhosts
+|4,56,10,24,1658413734,"~/myhosts"
+'9  7  24  ~/myhosts
+|4,57,7,24,1658413734,"~/myhosts"
 
 # Jumplist (newest first):
+-'  6  13  ~/myhosts
+|4,39,6,13,1659449652,"~/myhosts"
+-'  10  24  ~/myhosts
+|4,39,10,24,1659449591,"~/myhosts"
+-'  5  57  ~/mytomrole.yml
+|4,39,5,57,1659449150,"~/mytomrole.yml"
+-'  5  57  ~/mytomrole.yml
+|4,39,5,57,1659449150,"~/mytomrole.yml"
+-'  5  57  ~/mytomrole.yml
+|4,39,5,57,1659449091,"~/mytomrole.yml"
+-'  5  57  ~/mytomrole.yml
+|4,39,5,57,1659449091,"~/mytomrole.yml"
+-'  1  0  ~/mytomrole.yml
+|4,39,1,0,1659448969,"~/mytomrole.yml"
+-'  1  0  ~/mytomrole.yml
+|4,39,1,0,1659448969,"~/mytomrole.yml"
+-'  1  0  ~/mytomrole.yml
+|4,39,1,0,1659448969,"~/mytomrole.yml"
+-'  1  0  ~/mytomrole.yml
+|4,39,1,0,1659448969,"~/mytomrole.yml"
+-'  2  22  ~/myfile.yml
+|4,39,2,22,1658845454,"~/myfile.yml"
+-'  2  22  ~/myfile.yml
+|4,39,2,22,1658845454,"~/myfile.yml"
+-'  2  22  ~/myfile.yml
+|4,39,2,22,1658845454,"~/myfile.yml"
+-'  2  22  ~/myfile.yml
+|4,39,2,22,1658845454,"~/myfile.yml"
+-'  2  22  ~/myfile.yml
+|4,39,2,22,1658845454,"~/myfile.yml"
+-'  2  22  ~/myfile.yml
+|4,39,2,22,1658845454,"~/myfile.yml"
+-'  2  22  ~/myfile.yml
+|4,39,2,22,1658845454,"~/myfile.yml"
 -'  2  22  ~/myfile.yml
 |4,39,2,22,1658845454,"~/myfile.yml"
 -'  22  4  ~/myfile.yml
 |4,39,22,4,1658845432,"~/myfile.yml"
 -'  22  4  ~/myfile.yml
+|4,39,22,4,1658845432,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845432,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845432,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845432,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845432,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845432,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845432,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
 |4,39,22,4,1658845407,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845407,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845407,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845407,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845407,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845407,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845407,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845407,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845398,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845398,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845398,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845398,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845398,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845398,"~/myfile.yml"
+-'  22  4  ~/myfile.yml
+|4,39,22,4,1658845398,"~/myfile.yml"
 -'  22  4  ~/myfile.yml
 |4,39,22,4,1658845398,"~/myfile.yml"
 -'  1  0  ~/myfile.yml
@@ -74,6 +150,96 @@
 |4,39,1,0,1658845324,"~/myfile.yml"
 -'  1  0  ~/myfile.yml
 |4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  1  0  ~/myfile.yml
+|4,39,1,0,1658845324,"~/myfile.yml"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
+-'  7  24  ~/myhosts
+|4,39,7,24,1658413734,"~/myhosts"
 -'  7  24  ~/myhosts
 |4,39,7,24,1658413734,"~/myhosts"
 -'  7  24  ~/myhosts
@@ -94,174 +260,30 @@
 |4,39,1,13,1658413720,"~/myhosts"
 -'  1  13  ~/myhosts
 |4,39,1,13,1658413720,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413720,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413720,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413720,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413720,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413720,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413720,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413553,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413553,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413553,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413553,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413553,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413553,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413553,"~/myhosts"
--'  1  13  ~/myhosts
-|4,39,1,13,1658413553,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  5  17  ~/myhosts
-|4,39,5,17,1658413533,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  4  17  ~/myhosts
-|4,39,4,17,1658413511,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  7  28  ~/myhosts
-|4,39,7,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  7  28  ~/myhosts
-|4,39,7,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  7  28  ~/myhosts
-|4,39,7,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  7  28  ~/myhosts
-|4,39,7,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  7  28  ~/myhosts
-|4,39,7,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  7  28  ~/myhosts
-|4,39,7,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  7  28  ~/myhosts
-|4,39,7,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  7  28  ~/myhosts
-|4,39,7,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413464,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413032,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413032,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413032,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413032,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413032,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413032,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413032,"~/myhosts"
--'  6  28  ~/myhosts
-|4,39,6,28,1658413032,"~/myhosts"
--'  3  14  ~/myhosts
-|4,39,3,14,1658412953,"~/myhosts"
--'  2  14  ~/myhosts
-|4,39,2,14,1658412953,"~/myhosts"
--'  3  14  ~/myhosts
-|4,39,3,14,1658412953,"~/myhosts"
--'  2  14  ~/myhosts
-|4,39,2,14,1658412953,"~/myhosts"
--'  2  14  ~/myhosts
-|4,39,2,14,1658412953,"~/myhosts"
 
 # History of marks within files (newest to oldest):
+
+> ~/myhosts
+	*	1659449647	0
+	"	6	13
+	^	6	14
+	.	6	13
+	+	1	13
+	+	3	14
+	+	10	28
+	+	8	17
+	+	1	13
+	+	9	24
+	+	10	24
+	+	5	22
+	+	6	13
+
+> ~/mytomrole.yml
+	*	1659449094	0
+	"	5	57
+	^	5	58
+	.	5	57
+	+	5	57
 
 > ~/myfile.yml
 	*	1658845452	0
@@ -272,19 +294,6 @@
 	+	19	3
 	+	22	4
 	+	2	22
-
-> ~/myhosts
-	*	1658413733	0
-	"	7	24
-	^	7	25
-	.	7	24
-	+	1	13
-	+	3	14
-	+	7	28
-	+	5	17
-	+	1	13
-	+	6	24
-	+	7	24
 
 > ~/myhost
 	*	1658412949	0

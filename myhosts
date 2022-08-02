@@ -2,6 +2,9 @@
 ip-172-31-0-14
 ip-172-31-0-134
 
+[myapplicationservers]
+ip-172-31-0-14
+
 [mywebservers:vars]
 mywebserverpackonubuntu= apache2
 mywebserverpackonredhat= httpd
