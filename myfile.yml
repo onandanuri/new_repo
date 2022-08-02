@@ -1,5 +1,5 @@
 ---
-- hosts: 172.31.0.14
+- hosts: ip-172-31-0-14
   become: yes
   tasks:
    - name: Execute linux command
@@ -15,9 +15,9 @@
        state: present
      when: myfirsttaskresult.stderr == ""
 
-    - name: Install tree
-      apt:
+   - name: Install tree
+     apt:
        name: tree
        state: present
-      when: myfirsttaskresult.stderr != ""    
+     when: myfirsttaskresult.stderr != ""    
       
