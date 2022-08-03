@@ -184,3 +184,97 @@ git pull https://github.com/maha4ntvc/myAnsible_NT_E_6_18july22/blob
 git pull https://github.com/maha4ntvc/myAnsible_NT_E_6_18july22/blob/
 git pull https://github.com/maha4ntvc/myAnsible_NT_E_6_18july22/
 git pull https://github.com/maha4ntvc/myAnsible_NT_E_6_18july22
+cd 
+ls
+cd cd
+cd 
+ls
+git add -A
+git push 
+git
+giththtttttjflrjf';ekd'
+askdpd'
+[ALSHTTP
+
+
+
+Q
+1Q
+1Q
+1Q
+1
+
+
+
+
+
+
+ls -lttr
+git remote add origin https://github.com/onandanuri/new_repo.git
+git push 
+cd 
+ls
+ls -ltr
+git add -A
+\
+p
+cd 
+ls
+git add -A
+A
+git commit -m """
+=
+
+
+
+
+
+
+
+
+
+
+
+git commit -m """
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+git commit 
+cd 
+ls -ltr
+ansible-galaxy init mytomrole
+git add -A
+got commit -m "tomrole"
+git commit -m "tomrole"
+git config --global user.email "onandanuri@gmail.com"
+git config --global user.name "onandanuri"
+git add -A
+git commit -m "tomrole"
+git push 
+git init 
+cd 
+ls -ltr
+git push
+git push https://github.com/onandanuri/new_repo.git
+cd /opt/tomcat
+cd /opt
+ls
+ls -ltrtr
+ls
+exit
+cd 
+ls
+vi mytomrole.yml
+hostnamectl set-hostname Ansible_Master 
+exit
