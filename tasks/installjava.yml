@@ -1,0 +1,9 @@
+---
+- name: update
+  apt: 
+   update_cache: yes
+
+ - name: install_java
+   apt:
+    name: openjdk8-jdk
+    state: present
